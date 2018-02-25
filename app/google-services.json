@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "202748938473",
+    "firebase_url": "https://pottytalk-a7ef7.firebaseio.com",
+    "project_id": "pottytalk-a7ef7",
+    "storage_bucket": "pottytalk-a7ef7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:202748938473:android:011b32c6a1a45009",
+        "android_client_info": {
+          "package_name": "com.andrewogren.pottytalk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "202748938473-95a5hi63llksg2ij92p1vrk65k9865a5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.andrewogren.pottytalk",
+            "certificate_hash": "181b641eef21b54e7180faa8cc46c559b1b0a973"
+          }
+        },
+        {
+          "client_id": "202748938473-77n5bsgeotekmov5p70pqevt9724ucau.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSvwsZsPRyg_51hJFL9h_klkAAt-XxpPI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "202748938473-77n5bsgeotekmov5p70pqevt9724ucau.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

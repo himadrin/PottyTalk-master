@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">PottyTalk</string>
+
+    <string name="school_title">School Name</string>
+    <string name="school_summary">Enter Your School</string>
+
+    <string name="toilet_title_preference">Followed Toilets</string>
+    <string name="toilet_summary_preference">Click to edit your followed toilets</string>
+
+</resources>
